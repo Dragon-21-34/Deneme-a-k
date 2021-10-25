@@ -2,15 +2,15 @@
 #include <conio.h>
 #include<iostream>
 using namespace std;
-
+// bu bir hesabp makinesi Ã¶rneÄŸi dir
 int main(){ 
   //  ba:
 	da:
 	setlocale (LC_ALL,"Turkish"); 
 	int sayi1,sayi2,sonuc;
 	char islem;
-    cout << "\n\n\nHesap makinesi:\n\nA)toplama +\n\nB)çýkarma -\n\nC)çarpma *\n\nD)bölme /";
-	cout << "\n\nilk sayýyý giriniz ardýn dan iþlemiminizi seçip ikinci sayýi giriniz: ";
+    cout << "\n\n\nHesap makinesi:\n\nA)toplama +\n\nB)ï¿½ï¿½karma -\n\nC)ï¿½arpma *\n\nD)bï¿½lme /";
+	cout << "\n\nilk sayï¿½yï¿½ giriniz ardï¿½n dan iï¿½lemiminizi seï¿½ip ikinci sayï¿½i giriniz: ";
     
 	cin >> sayi1;
     cin >> islem;
